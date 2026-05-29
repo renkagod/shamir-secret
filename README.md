@@ -1,6 +1,6 @@
 # Shamir Secret
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Консольная утилита для схемы разделения секрета Шамира (k-of-n): разбивает текст на `n` долей и восстанавливает его по любым `k` долям.
 
