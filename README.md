@@ -1,6 +1,7 @@
 # Shamir Secret
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Donate](https://img.shields.io/badge/Donate-crypto-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/renkagod/.github/blob/main/DONATE.md)
 
 Консольная утилита для схемы разделения секрета Шамира (k-of-n): разбивает текст на `n` долей и восстанавливает его по любым `k` долям над простым полем GF(p).
 
@@ -37,6 +38,10 @@ python main.py
 
 - Секрет кодируется как целое из байт UTF-8; для выбранного `p` практичная длина текста — порядка ~60 символов
 - Учебная реализация; для продакшена используйте проверенные криптобиблиотеки
+
+## Поддержать проект
+
+Если проект оказался полезен, можно поддержать его криптой: [адреса для доната](https://github.com/renkagod/.github/blob/main/DONATE.md).
 
 ## Лицензия
 
